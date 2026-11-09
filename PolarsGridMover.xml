@@ -28,5 +28,5 @@ Source: https://github.com/Po11arr/PolarsGridMover</Description>
     <SourceDirectories>
         <Directory>PolarsGridMover</Directory>
     </SourceDirectories>
-    <Commit>Set after testing</Commit>
+    <Commit>8c0a4c1aff3fe3b43f42dc014ad5fb18e6d65bfb</Commit>
 </PluginData>
